@@ -2,3 +2,4 @@
 data/
 VectorStore/
 VectorDB/
+chromadb_persist/
